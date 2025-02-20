@@ -1,9 +1,9 @@
 .Contact {
-    width: 1500px;
+    width: 1536px;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    max-height: 100vh;
     background: #826afb; 
 }
 
